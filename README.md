@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**mimicate/mimicate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```I am mimicate.```
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some internal projects.
+- 🌱 I’m currently learning JavaScript :)
+- 🕸️ I do have a website! https://mimicate.me/, but there is nothing
+- Feel free to contact me: me@mimicate.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### To-Do
+
+- [x] Get a normal laptop
+- [Failed] Win InnoCTF Junior
+- [ ] End up my education
+- [ ] Get a job
+- [ ] Finish learning JS
+- [ ] Get a certificate confirming that I know English
