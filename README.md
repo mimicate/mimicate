@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on some internal projects.
 - 🌱 I’m currently learning JavaScript :)
-- 🕸️ I do have a website! https://mimicate.me/, but there is nothing
-- Feel free to contact me: me@mimicate.me
+- 🕸️ I do have a website! https://pwn.tatar/
+- Feel free to contact me: cate@pwn.tatar
 
 ### To-Do
 
